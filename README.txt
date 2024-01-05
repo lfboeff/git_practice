@@ -1,3 +1,1 @@
-Hello Git and Github
-
-ALOHA
+Hello Git and Github!
